@@ -5,7 +5,7 @@ var bio = {
 	'role': 'Front-End Web Developer',
 	'contacts': {
 		'mobile': '5555555555',
-		'email': 'me@gmail.com',
+		'email': 'alinenalencar@gmail.com',
 		'github': 'alinesobral',
 		'twitter': '@me',
 		'location': 'Toronto, ON'
@@ -95,16 +95,23 @@ var projects = {
 		{
 		'title': 'About me',
 		'dates': 2015,
-		'description': 'Project 0 of Udacity\'s Front-End Web Development Nanodegree.',
+		'description': 'Project 0 of Udacity\'s Front-End Web Development Nanodegree. Clean page with basic information about me. Made with HTML and CSS.',
 		'images': 'http://i.imgur.com/MIMNyl1.png',
 		'url': 'http://codepen.io/aline/full/YXOKwP/'
 		},
 		{
 		'title': 'Portfolio',
 		'dates': 2015,
-		'description': 'Project 1 of Udacity\'s Front-End Web Development Nanodegree.',
+		'description': 'Project 1 of Udacity\'s Front-End Web Development Nanodegree. Website built with Responsive Web Design Fundamentals. Made with HTML and CSS.',
 		'images': 'http://i.imgur.com/uIqvWsj.png',
 		'url': 'http://alinesobral.github.io/Project-1/'
+		},
+		{
+		'title': 'Arcade Game',
+		'dates': 2015,
+		'description': 'Project 3 of Udacity\'s Front-End Web Development Nanodegree. This is an Arcade Game where the character has to cross the street and get to the water without touching any bugs. Made with HTML, CSS and Javascript',
+		'images': 'http://i.imgur.com/812tbFe.png',
+		'url': 'http://alinesobral.github.io/Project3/'
 		}
 	],
 	'display': function() {
